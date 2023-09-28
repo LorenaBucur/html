@@ -1,0 +1,23 @@
+h1 {
+  width: 524px;
+  height: 26px;
+  flex-shrink: 0;
+  color: #005889;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: 10px;
+}
+.firstdiv {
+  font-size: 15px;
+  padding-left: 20px;
+}
+p {
+  padding-left: 20px;
+}
+.title {
+  color: #005889;
+}
+.inline {
+  display: flex;
+}
